@@ -1,9 +1,8 @@
 <h1 align="center">Farahe El-Montaser</h1>
 
 <p align="center">
-  <b>Étudiante M2 Web Intelligence & Data Science</b> · USMBA (Fès) × Université Sorbonne Paris Nord
+  <b>Étudiante M2 Web Intelligence & Data Science (USMBA, Fès) × M2 Informatique EID2 (Université Sorbonne Paris Nord)</b>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/farahe-el-montaser-30a422368"><img src="https://img.shields.io/badge/LinkedIn-Farahe_El--Montaser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Fès,_Maroc-555555?style=for-the-badge" alt="Fès, Maroc"/>
